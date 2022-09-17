@@ -1,0 +1,83 @@
+Git-> Git é um sistema de versionamento de codigo distribuído, vai ajudar a criar e monitorar diferentes versões do nosso codigo
+
+Git Hub-> E da Microsoft, repositório online donde a gente vai armazenando nosso codigo
+
+São duas tecnologias diferentes e complementares
+
+
+Benefícios:
+1- Controle de versão
+2- Armazenamento em nuvem
+3- Trabalho em equipe
+4- Melhorar seu codigo
+5- Reconhecimento
+
+
+	• GIT
+		○ Interagir com linguagem de comando CLI- Comand Line Interface
+		○ Windows:
+			§ Cd - ir para
+			§ Cls - limpar 
+			§ dir
+			§ Mkdir - criar uma pasta
+			§ del/rmdir
+			§ Echo hello > hello.txt
+		
+	
+	
+			§ Del - deletar
+		
+		
+		
+		- GIT -
+	SHA -> algoritmo de encriptação, pega o arquivo e encriptado, a saída e um cjto de caracteres de 40 dígitos. Por cada alteração no arquivo gera novamente a encriptação de 40 digitos.
+	É uma forma curta de representar um arquivo
+	
+	
+		
+	BLOBS, TREE, COMMINTS
+	
+	- BLOBS-> Manipulação através de objetos
+		
+		
+	- Tree-> Armazena Blobs, contem metadatados e aponta para um Blob que se sua vez tem um SHA, ela e responsável de montar a estrutura de montar a estrutura de esta o arquivo.
+	- 
+	- Commit-> O objeto mais importante de todos, aponta para o autor e para a mensagem, e único para cada autor 
+
+
+
+	
+	
+	- GIT E UM SISTEMA DISTRIBUIDO SEGURO
+	
+Chave SSH e Tokens
+
+
+	- Para guardar seu codigo no HUB voce precisa se autenticar.
+	- Chave SSH- Conexão segura entre 2 maquinas ( com duas chaves uma publica e outra privada)
+
+
+Exercícios!
+	- Iniciar o GIT
+	- Iniciar o versionamento
+	- Criar um commint
+
+- git init- criando um repositorio no git
+-git add
+-git commint
+
+
+
+
+3 estados:
+
+Unmodified
+Modified
+Staged - conceito chave, o basckstage
+
+
+
+
+As alteração na maquina no repercute direto no Repositorio Remoto.
+
+
